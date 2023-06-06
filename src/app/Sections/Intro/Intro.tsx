@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
@@ -61,7 +62,7 @@ function Intro() {
                     </div>
                     <div className="flex flex-col items-center h-full w-full sm:w-1/2">
                         <div className=" w-52 sm:w-60 z-10 h-96" data-aos="fade-left" data-aos-duration="2000">
-                            <img src="/Image/hassan1.jpg" className="border-8 border-solid border-mblue rounded-3xl" />
+                            <Image width={100} height={100} alt="my-picture" src="/Image/hassan1.jpg" className="border-8 border-solid border-mblue rounded-3xl" />
                         </div>
                     </div>
 

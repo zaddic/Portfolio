@@ -7,7 +7,7 @@ import Summary from './Sections/Summary/Summary';
 import Qualification from './Sections/Qualification/Qualification';
 import {Card} from './Sections/Skill/Skill'
 
-function page() {
+function Page() {
   useEffect(() => {
     initializeAOS()
   },[])
@@ -20,6 +20,6 @@ function page() {
   )
 }
 
-export default page
+export default Page
 
 

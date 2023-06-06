@@ -16,7 +16,7 @@ function Education() {
           data-aos-duration="1000">
             <li>Matricultion - 2019-2020</li>
             <li>Intermediate - 2021-2022</li>
-            <li>Bachelor's in Computer Sciences - Enrolled</li>
+            <li>Bachelor&apos;sin Computer Sciences - Enrolled</li>
           </ul>
         </div>
       </div>
