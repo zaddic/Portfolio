@@ -1,0 +1,5 @@
+export {default as Intro} from "./Intro/Intro"
+export {default as Summary} from "./Summary/Summary"
+export {default as Skill} from "./Skill/Skill"
+export {default as Qualification} from "./Qualification/Qualification"
+export {default as Colabs} from "./Colabs/Colabs"
